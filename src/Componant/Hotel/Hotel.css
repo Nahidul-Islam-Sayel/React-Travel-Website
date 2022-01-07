@@ -1,0 +1,10 @@
+.body{
+   display: flex;
+   padding: 20px;
+}
+.photo{
+    width: 40%;
+}
+.google{
+    widows: 40%;
+}
